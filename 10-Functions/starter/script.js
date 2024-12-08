@@ -75,7 +75,6 @@ const calcAvgHumAge = ay7ga => {
 };
 
 calcAvgHumAge(alldogs1);
-console.log(Hacked);
 // const calcAverageHumanAge = function (ay7ga) {
 //   const humanages = ay7ga.map(function (dogages, i) {
 //     return dogages <= 2 ? 2 * dogages : 16 + dogages * 4;
